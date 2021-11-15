@@ -15,9 +15,6 @@
         alt="CodeWorks Logo"
         class="rounded-circle"
       />
-      <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Vue 3 Starter
-      </h1>
     </div>
   </div>
 </template>
